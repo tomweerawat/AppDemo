@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_1d1b10d28e1b8b7e652035c99c2a192a504414ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_8e9a503a051dfca80f40fa089e376f25850ee006.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\okio-1.6.0_73a65f813fae38685bcb26202c79b0e74bda2f8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_fc6595f72beba59279103aac20f8b4f4357ef72e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_09d5ed290f4bae5cc11ac688296a24d95781fbdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_fa54a35c445bb2a61efdfb9c360c0e9ada9807a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_1cbf607e24a12cc08fde2523ba6dde6f658278ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\info.hoang8f\fbutton\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\info.hoang8f-fbutton-1.0.5_370cc9f8b0d86404d0791726d71edb5832086305.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_6a96c14ed0de113de606b5ce53b5e070efdedf46.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\gson-2.3.1_ee336e3fd54ecf6ba12af8174d2d2bb0ef7ee74c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_245194248d91cc96575d2c3cfc7048f010806b0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0\5c06d197fb7fa875ad452f562e3310dd9949d066\retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0_11ce6e0fe484c428cea397c354ef1847359c9665.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_3df16280d0f8cd04e9d3f50ec18cff6571213900.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_6b01a825300394fdb54744323f1da0ba14fb0bb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_67b08359ba8037924e429feedbd6a8bd1f460285.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01995262da16eede9b52e40cdd029209ca08cd95">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_74647e19e831c40de093972cf13a3fc3eab7d798.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_19f2002437d9539bb832cb3bdef7e69b133b3863.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d1b0073a2c992961202074ad0a6d9ac26382e2ce">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\instant-run_910225e59fbd96dbdeb65008551acb1f0662c67c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win81 User\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_6c540bb9b81bfd55b6d7d9fe97aa00b68168382e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Win81 User\Desktop\AppDemo1\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9172c424b3e4c6cc124e4e3ed4c937ac3bfe3d29.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="17"
+    density="xhdpi"
+    format="7"
+    timestamp="82501220930466" >
+
+    <task
+        name="javac"
+        duration="1718" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="472" />
+    <task
+        name="verifier"
+        duration="128" />
+
+    <artifact
+        location="C:\Users\Win81 User\Desktop\AppDemo1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="82501220930466" >
+        <artifact
+            location="C:\Users\Win81 User\Desktop\AppDemo1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
